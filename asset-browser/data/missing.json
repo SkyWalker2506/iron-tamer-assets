@@ -1,0 +1,14 @@
+{
+  "updated": "2026-05-01",
+  "items": [
+    { "name": "scrap_dog_idle", "category": "Robots", "priority": "P0", "status": "approved", "size": "256x256", "notes": "Tier-1 starter, 4-legged scout, cyan optic" },
+    { "name": "spark_scout_idle", "category": "Robots", "priority": "P0", "status": "approved", "size": "256x256", "notes": "Tier-1 fast recon, biped slim, dual cyan visor" },
+    { "name": "rust_worker_idle", "category": "Robots", "priority": "P0", "status": "approved", "size": "256x256", "notes": "Tier-2 brawler/boss, tank pyramid, orange visor" },
+    { "name": "battery_bot_idle", "category": "Robots", "priority": "P0", "status": "approved", "size": "256x256", "notes": "Tier-2 support, hovering ovoid, orange core" },
+    { "name": "drone_idle", "category": "Robots", "priority": "P0", "status": "approved", "size": "256x256", "notes": "Tier-2 flying, X-quadcopter, cyan lens" },
+    { "name": "generator_idle", "category": "Buildings", "priority": "P0", "status": "missing", "size": "192x192", "footprint": "1x1" },
+    { "name": "repair_station_idle", "category": "Buildings", "priority": "P0", "status": "missing", "size": "192x192", "footprint": "1x1" },
+    { "name": "robot_bay_idle", "category": "Buildings", "priority": "P0", "status": "missing", "size": "384x384", "footprint": "2x2" },
+    { "name": "scrap_processor_idle", "category": "Buildings", "priority": "P0", "status": "missing", "size": "384x384", "footprint": "2x2" }
+  ]
+}
